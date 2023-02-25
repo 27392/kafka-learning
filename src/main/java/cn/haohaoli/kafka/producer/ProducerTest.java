@@ -1,4 +1,4 @@
-package cn.haohaoli.kafka;
+package cn.haohaoli.kafka.producer;
 
 import org.apache.kafka.clients.producer.*;
 
